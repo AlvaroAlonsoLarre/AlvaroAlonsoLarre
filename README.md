@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Álvaro Alonso Larré</h1>
-<h3 align="center">A Spanish Senior Engineer growing as a Data Analyst</h3>
+<h3 align="center">I am a Senior Engineer and I have 7 years of experience in Industries. I have great Analytical and Resolution Capacity, focused on Data Management and Continuous Improvement. I have good Social and Leadership Skills, as well as a great sense of Responsibility and interest in New Challenges and Competencies. All of this has led me to lead the maintenance department of one of the most prestigious food industries in its sector.</h3>
 
 - 🌱 I’m currently learning **Python**
 
