@@ -4,6 +4,8 @@
 <h3 align="left"> EN
 <h3 align="center">I am a Senior Engineer and I have 7 years of experience in Industries. I have great Analytical and Resolution Capacity, focused on Data Management and Continuous Improvement. I have good Social and Leadership Skills, as well as a great sense of Responsibility and interest in New Challenges and Competencies. All of this has led me to lead the maintenance department of one of the most prestigious food industries in its sector.</h3>
 
+
+
 - 🌱 Estoy actualmente estudiando **Python**    //    I’m currently learning **Python**
 
 - 💬Pregúntame por **Excel, Power Query, Power BI, SQL, Prezi**     //    Ask me about **Excel, Power Query, Power BI, SQL, Prezi**
