@@ -19,6 +19,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> <a href="https://prezi.com/es/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Prezi_logo_transparent_2012.svg/600px-Prezi_logo_transparent_2012.svg.png" width="40" height="40"/> </a> 
+ <a href="https://www.microsoft.com/es-es/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://www.uc3m.es/sdic/media/sdic/img/mediana/original/im_power-bi-pro---icono/im_power-bi-pro---icono.png" width="40" height="40"/> </a>
  <a href="https://www.microsoft.com/es-es/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/564x/b6/0c/44/b60c442e6dd69356b90b9e5bec23cc99.jpg" width="40" height="40"/> </a> 
  <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/mysql_workbench_macos_bigsur_icon_189924.png" alt="postgresql" width="40" height="40"/> </a> 
  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
