@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Álvaro Alonso Larré</h1>
-<h3 align="left"> SP
+<h3 align="left"> <img src="https://media.istockphoto.com/id/990992334/es/vector/espa%C3%B1a-redondo-bandera-vector-icono-plana.jpg?s=612x612&w=0&k=20&c=MYoLw0YXD1GJYfURJZdJ9lagVhjRy2BrwAABaNA4kRI=" width="40" height="40"/>
 <h3 align="center">Soy Ingeniero Superior con 7 años de experiencia en el Sector Industrial. Tengo gran Capacidad Analítica y Resolutiva, enfocada a la Gestión de Datos y la Mejora Continua. Cuento con buenas Habilidades Sociales y de Liderazgo, así como un gran sentido de la Responsabilidad e interés por Nuevos Retos y Competencias. Todo esto me ha llevado a liderar al departamento de mantenimiento de una de las industrias alimentarias con mayor recorrido de su sector.</h3>
 <h3 align="left"> EN
 <h3 align="center">I am a Senior Engineer and I have 7 years of experience in Industries. I have great Analytical and Resolution Capacity, focused on Data Management and Continuous Improvement. I have good Social and Leadership Skills, as well as a great sense of Responsibility and interest in New Challenges and Competencies. All of this has led me to lead the maintenance department of one of the most prestigious food industries in its sector.</h3>
